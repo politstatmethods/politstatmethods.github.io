@@ -13,4 +13,20 @@ output:
 <a href="https://drive.google.com/drive/folders/1eCXuX15Ysp9HPKbVc9mAK8lTcPERZs-3?usp=sharing" title=>Ссылка на общую папку с литературой</a>  
 Папка будет пополняться в процессе изучения материала. 
  
+### Обозначения
+ 
+`r  shiny::icon("scroll")` -- презентация / конспект занятия / семинарский листочек
+ 
+`r  shiny::icon("readme")` -- Reading
+ 
+`r  shiny::icon("desktop")` -- материалы для практикума (данные, код)
+ 
+`r  shiny::icon("pencil")` -- задание 
+ 
+## Занятие 1
+ 
+Тема: О чем курс и каковы правила игры? 
+  
+`r  shiny::icon("scroll")` <a href="polit_methods_intro.pdf" title=>Презентация-введение</a> 
 
+`r  shiny::icon("scroll")` <a href="polit_methods_lecture1.pdf" title=>Лекция 1</a> 
