@@ -1,0 +1,16 @@
+
+---
+title: "Материалы"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 2
+    toc_float: true
+    theme: united
+---
+# Методы анализа неоднородных данных и паттерн-анализ, 2024
+ 
+<a href="https://drive.google.com/drive/folders/1eCXuX15Ysp9HPKbVc9mAK8lTcPERZs-3?usp=sharing" title=>Ссылка на общую папку с литературой</a>  
+Папка будет пополняться в процессе изучения материала. 
+ 
+
