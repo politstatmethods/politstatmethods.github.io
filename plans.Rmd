@@ -30,3 +30,5 @@ output:
 `r  shiny::icon("scroll")` <a href="polit_methods_intro.pdf" title=>Презентация-введение</a> 
 
 `r  shiny::icon("scroll")` <a href="polit_methods_lecture1.pdf" title=>Лекция 1</a> 
+
+`r  shiny::icon("desktop")` <a href="hypothesis_testing_solution.ipynb" title=>Код к лекции 1. Проверка гипотез</a> 
