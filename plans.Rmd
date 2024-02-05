@@ -32,3 +32,25 @@ output:
 `r  shiny::icon("scroll")` <a href="polit_methods_lecture1.pdf" title=>Лекция 1</a> 
 
 `r  shiny::icon("desktop")` <a href="hypothesis_testing_solution.ipynb" title=>Код к лекции 1. Проверка гипотез</a> 
+
+## Занятие 2
+ 
+Тема: Линейная регрессия: повторение 
+
+`r  shiny::icon("pencil")` <a href="polit_methods_pset1.pdf" title=>Семинарский лист 1</a> 
+
+`r  shiny::icon("scroll")` <a href="polit_methods_lecture2.pdf" title=>Лекция 2</a> 
+
+`r  shiny::icon("desktop")` <a href="polit_methods_lab1_2024.ipynb" title=>Практикум 1 </a> 
+
+`r  shiny::icon("desktop")` <a href="lab1.dta" title=>Данные к практикуму 1 </a> 
+
+## Занятие 3
+ 
+Тема: Регрессионные модели с переменными взаимодействия 
+
+`r  shiny::icon("pencil")` <a href="polit_methods_pset2.pdf" title=>Семинарский лист 2</a> 
+
+
+
+  
