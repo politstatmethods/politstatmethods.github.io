@@ -51,6 +51,14 @@ output:
 
 `r  shiny::icon("pencil")` <a href="polit_methods_pset2.pdf" title=>Семинарский лист 2</a> 
 
+Домашнее задание к 13 февраля (для тренировки, сдавать не нужно): 
+
+`r  shiny::icon("pencil")` <a href="polit_methods_hw1.pdf" title=>Домашнее задание 1 </a> 
+
+`r  shiny::icon("readme")` Brambor et al., 2006 
+
+
+
 
 
   
