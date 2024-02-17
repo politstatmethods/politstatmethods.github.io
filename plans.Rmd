@@ -51,11 +51,24 @@ output:
 
 `r  shiny::icon("pencil")` <a href="polit_methods_pset2.pdf" title=>Семинарский лист 2</a> 
 
+`r  shiny::icon("pencil")` <a href="polit_methods_pset2_solution.pdf" title=>Решение заданий</a> 
+
 Домашнее задание к 13 февраля (для тренировки, сдавать не нужно): 
 
 `r  shiny::icon("pencil")` <a href="polit_methods_hw1.pdf" title=>Домашнее задание 1 </a> 
 
 `r  shiny::icon("readme")` Brambor et al., 2006 
+
+## Занятие 4
+ 
+Тема: Регрессионные модели с переменными взаимодействия 
+
+`r  shiny::icon("desktop")` <a href="polit_methods_lab2_2024.ipynb" title=>Практикум 2 </a> 
+
+## Занятие 5
+ 
+Тема: Модели с фиксированными эффектами
+
 
 
 
