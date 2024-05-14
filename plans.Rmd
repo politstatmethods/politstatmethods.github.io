@@ -67,9 +67,33 @@ output:
 
 ## Занятие 5
  
-Тема: Модели с фиксированными эффектами
+Тема: Модели с фиксированными эффектами и случайными эффектами
 
+`r  shiny::icon("scroll")` <a href="FE_RE_models.pdf" title=>Презентация: вопросы и ответы FE- и RE-модели</a> 
 
+`r  shiny::icon("desktop")` <a href="MApolit_lab3.ipynb" title=>Практикум 3 </a> 
+
+`r  shiny::icon("desktop")` <a href="MApolit_lab3.dta" title=>Данные к практикуму 3 </a> 
+
+## Занятие 6
+ 
+Тема: Модели с фиксированными эффектами и случайными эффектами (продолжение)
+
+`r  shiny::icon("desktop")` <a href="MApolit_lab4.ipynb" title=>Практикум 4 </a> 
+
+## Занятие 7
+ 
+Тема: Модель DiD
+
+`r  shiny::icon("scroll")` <a href="DiD_lecture.pdf" title=>Презентация: DiD</a>
+
+`r  shiny::icon("desktop")` <a href="MApolit_lab5.ipynb" title=>Практикум 5 </a> 
+
+`r  shiny::icon("desktop")` <a href="DiDdata.dta" title=>Данные к практикуму 5 </a> 
+
+## Занятие 8
+ 
+`r  shiny::icon("pencil")` <a href="practice_for_test.pdf" title=>Семинарский лист 3: задачи для тренировки</a> 
 
 
 
