@@ -8,11 +8,9 @@ output:
     toc_float: true
     theme: united
 ---
-# Методы анализа неоднородных данных и паттерн-анализ, 2024
+# Методы анализа неоднородных данных и паттерн-анализ, 2025
  
-<a href="https://drive.google.com/drive/folders/1eCXuX15Ysp9HPKbVc9mAK8lTcPERZs-3?usp=sharing" title=>Ссылка на общую папку с литературой</a>  
-Папка будет пополняться в процессе изучения материала. 
- 
+
 ### Обозначения
  
 `r  shiny::icon("scroll")` -- презентация / конспект занятия / семинарский листочек
@@ -27,73 +25,13 @@ output:
  
 Тема: О чем курс и каковы правила игры? 
   
-`r  shiny::icon("scroll")` <a href="polit_methods_intro.pdf" title=>Презентация-введение</a> 
+`r  shiny::icon("scroll")` <a href="MApolit_intro_2025.pdf" title=>Презентация-введение</a> 
 
-`r  shiny::icon("scroll")` <a href="polit_methods_lecture1.pdf" title=>Лекция 1</a> 
+`r  shiny::icon("scroll")` <a href="MApolit_lecture1_2025.pdf" title=>Лекция 1</a> 
 
-`r  shiny::icon("desktop")` <a href="hypothesis_testing_solution.ipynb" title=>Код к лекции 1. Проверка гипотез</a> 
-
-## Занятие 2
+Домашнее задание к 24 января (для тренировки, сдавать не нужно): 
  
-Тема: Линейная регрессия: повторение 
-
-`r  shiny::icon("pencil")` <a href="polit_methods_pset1.pdf" title=>Семинарский лист 1</a> 
-
-`r  shiny::icon("scroll")` <a href="polit_methods_lecture2.pdf" title=>Лекция 2</a> 
-
-`r  shiny::icon("desktop")` <a href="polit_methods_lab1_2024.ipynb" title=>Практикум 1 </a> 
-
-`r  shiny::icon("desktop")` <a href="lab1.dta" title=>Данные к практикуму 1 </a> 
-
-## Занятие 3
- 
-Тема: Регрессионные модели с переменными взаимодействия 
-
-`r  shiny::icon("pencil")` <a href="polit_methods_pset2.pdf" title=>Семинарский лист 2</a> 
-
-`r  shiny::icon("pencil")` <a href="polit_methods_pset2_solution.pdf" title=>Решение заданий</a> 
-
-Домашнее задание к 13 февраля (для тренировки, сдавать не нужно): 
-
-`r  shiny::icon("pencil")` <a href="polit_methods_hw1.pdf" title=>Домашнее задание 1 </a> 
-
-`r  shiny::icon("readme")` Brambor et al., 2006 
-
-## Занятие 4
- 
-Тема: Регрессионные модели с переменными взаимодействия 
-
-`r  shiny::icon("desktop")` <a href="polit_methods_lab2_2024.ipynb" title=>Практикум 2 </a> 
-
-## Занятие 5
- 
-Тема: Модели с фиксированными эффектами и случайными эффектами
-
-`r  shiny::icon("scroll")` <a href="FE_RE_models.pdf" title=>Презентация: вопросы и ответы FE- и RE-модели</a> 
-
-`r  shiny::icon("desktop")` <a href="MApolit_lab3.ipynb" title=>Практикум 3 </a> 
-
-`r  shiny::icon("desktop")` <a href="MApolit_lab3.dta" title=>Данные к практикуму 3 </a> 
-
-## Занятие 6
- 
-Тема: Модели с фиксированными эффектами и случайными эффектами (продолжение)
-
-`r  shiny::icon("desktop")` <a href="MApolit_lab4.ipynb" title=>Практикум 4 </a> 
-
-## Занятие 7
- 
-Тема: Модель DiD
-
-`r  shiny::icon("scroll")` <a href="DiD_lecture.pdf" title=>Презентация: DiD</a>
-
-`r  shiny::icon("desktop")` <a href="MApolit_lab5.ipynb" title=>Практикум 5 </a> 
-
-`r  shiny::icon("desktop")` <a href="DiDdata.dta" title=>Данные к практикуму 5 </a> 
-
-## Занятие 8
- 
-`r  shiny::icon("pencil")` <a href="practice_for_test.pdf" title=>Семинарский лист 3: задачи для тренировки</a> 
+`r  shiny::icon("pencil")` <a href="MApolit_hw1_2025.pdf" title=>Домашнее задание 1 </a> 
 
 
 

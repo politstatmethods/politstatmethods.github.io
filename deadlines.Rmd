@@ -4,6 +4,4 @@ title: "Важные даты"
  
 Дата | Работа/мероприятие  | Содержание
 -------- | -------- | --------------------------------------------------------
-27 февраля | проверочная работа 1 | см. <a href="polit_methods_LO1.pdf" title=>Learning Outcomes 1</a>; <a href="polit_methods_test1_demo.pdf" title=>Демо-версия</a> 
-5 марта | домашнее задание 1 | Уровень 1: <a href="hw_inter_1.ipynb" title=>hw_inter_1.ipynb</a>; <a href="hw_inter_1.dta" title=>hw_inter_1.dta</a>; Уровень 2: <a href="hw_inter_2.ipynb" title=>hw_inter_2.ipynb</a>; <a href="hw_inter_2.dta" title=>hw_inter_2.dta</a>
-1 июня | эссе по курсу | см. подробнее <a href="polit_methods_intro.pdf" title=>презентацию-введение</a>
+5 июня | эссе по курсу | см. подробнее <a href="MApolit_intro_2025.pdf" title=>презентацию-введение</a>

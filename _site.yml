@@ -1,6 +1,6 @@
 output_dir: "."
 navbar:
-  title: "Методы анализа неоднородных данных, 2024"
+  title: "Методы анализа неоднородных данных, 2025"
   left:
     - text: "Welcome"
       href: index.html
