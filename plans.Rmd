@@ -37,6 +37,8 @@ output:
  
 Тема: линейная регрессионная модель (введение)
 
+`r  shiny::icon("scroll")` <a href="MApolit_lecture2_2025.pdf" title=>Лекция 2</a>
+
 Домашнее задание к 31 января (для тренировки, сдавать не нужно): 
  
 `r  shiny::icon("pencil")` <a href="MApolit_hw2_2025.pdf" title=>Домашнее задание 2 </a> 
