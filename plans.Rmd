@@ -43,6 +43,21 @@ output:
  
 `r  shiny::icon("pencil")` <a href="MApolit_hw2_2025.pdf" title=>Домашнее задание 2 </a> 
 
+## Занятие 2
+ 
+Тема: линейная регрессионная модель (продолжение); модели с переменными взаимодействия
+
+`r  shiny::icon("scroll")` <a href="MApolit_interactions.pdf" title=>Презентация: переменные взаимодействия</a>
+
+Домашнее задание к 7 февраля: 
+ 
+Обязательно: `r  shiny::icon("readme")` Brambor et al.
+
+Дополнительно: `r  shiny::icon("readme")` Franzese, Kam, pp. 19 -- 39 
+
+Домашнее задание к 9 февраля (бонусное, выполняется по желанию): 
+ 
+`r  shiny::icon("pencil")` <a href="MApolit_hw3_bonus.pdf" title=>Домашнее задание 3 (бонусное) </a> 
 
 
 
