@@ -61,6 +61,13 @@ output:
  
 `r  shiny::icon("pencil")` <a href="MApolit_hw3_bonus.pdf" title=>Домашнее задание 3 (бонусное) </a> 
 
+## Занятие 4
+ 
+Тема: регрессионные модели с переменными взаимодействия
+
+`r  shiny::icon("scroll")` <a href="MApolit_seminar2.pdf" title=>Семинарский лист 2</a>
+
+`r  shiny::icon("scroll")` <a href="MApolit_seminar2_solution.pdf" title=>Решение семинарского листка 2</a>
 
 
   
