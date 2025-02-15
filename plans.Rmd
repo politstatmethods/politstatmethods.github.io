@@ -69,5 +69,14 @@ output:
 
 `r  shiny::icon("scroll")` <a href="MApolit_seminar2_solution.pdf" title=>Решение семинарского листка 2</a>
 
+## Занятие 5 
+
+Тема: введение в модели для анализа панельных данных
+
+`r  shiny::icon("scroll")` <a href="FE--part-1-.html" title=>Конспект</a>
+
+Домашнее задание: 
+ 
+`r  shiny::icon("readme")`  <a href="https://disk.yandex.ru/i/G9DO5ZMwYmP2Mw" title=>Stock, Watson, Chapter 10 (10.1 - 10.3)</a>  
 
   
