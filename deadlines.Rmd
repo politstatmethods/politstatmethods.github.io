@@ -8,4 +8,5 @@ title: "Важные даты"
 14 февраля | Проверочная работа 1 | <a href="MApolit_LO1.pdf" title=>Learning Outcomes 1 </a> 
 19 февраля | ДЗ1 обязательное | см. подробнее <a href="MApolit_hw1_submission.pdf" title=>Условие ДЗ1</a>
 21 марта | Проверочная работа 2 | <a href="MApolit_LO2.pdf" title=>Learning Outcomes 2 </a> 
+20 апреля | ДЗ2 обязательное | см. подробнее <a href="MApolit_hw2_for_submission.pdf" title=>Условие ДЗ2</a> 
 5 июня | эссе по курсу | см. подробнее <a href="MApolit_intro_2025.pdf" title=>презентацию-введение</a>
